@@ -1,8 +1,9 @@
-# TUAN NGO
-
 Tel: (204) 890-5357
+
 email: ngoa2@myumanitoba.ca
+
 LinkedIn: www.linkedin.com/in/tuanngo1001
+
 GitHub: github.com/tuanngo1001
 
 ---
