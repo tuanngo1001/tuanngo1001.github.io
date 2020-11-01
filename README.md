@@ -6,6 +6,9 @@ This is a Resume formatted in Markdown and hosted on Github Pages using a Jekyll
 
 - [Getting Started](#getting-started)
 - [How to create and host a resume](#how-to-create-and-host-a-resume)
+- [Build Jekyll theme from scratch](#build-jekyll-theme-from-scratch)
+- [Author and Acknowledgments](#author-and-acknowledgments)
+- [FAQs](#faqs)
 
 ---
 

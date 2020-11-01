@@ -1,13 +1,3 @@
-Tel: (204) 890-5357
-
-email: ngoa2@myumanitoba.ca
-
-LinkedIn: www.linkedin.com/in/tuanngo1001
-
-GitHub: github.com/tuanngo1001
-
----
-
 ### TECHNICAL SKILLS
 
 | Programming Languages |            Tools and Frameworks            | Systems |
@@ -19,28 +9,6 @@ GitHub: github.com/tuanngo1001
 |          SQL          |       iOS Development using _Xcode_        |
 |        Python         |     Git / Github / Gitlab / Bitbucket      |
 |         C/C++         |                    JIRA                    |
-
-<!-- ###TECHNICAL SKILLS
-Programming Languages
-:   - JavaScript
-    - HTML/CSS
-    - Java
-    - Swift
-    - SQL
-    - Python
-    - C/C++
-
-Tools and Frameworks
-:   - ReactJs / Redux
-    - RESTful API
-    - Node.js
-    - Android Development using _Android Studio_
-    - iOS Development using _Xcode_
-    - Git / Github / Gitlab / Bitbucket
-    - JIRA
-
-Systems
-:   - macOS / Windows / Linux -->
 
 ---
 
@@ -82,7 +50,8 @@ Summer 2018
 
 ### EDUCATION
 
-2017 - 2022
+2017 - Present
 : **Bachelor of Computer Science Honours** - _University of Manitoba_ 
+    - Expected Date of Graduation: _April 2022_
     - Courses completed: Software Engineering, Human-Computer Interaction,
 Database Concept and Usage, and Introduction to Artificial Intelligence.
