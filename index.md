@@ -52,5 +52,5 @@ Summer 2018
 
 2017 - Present
 : **Bachelor of Computer Science Honours** - _University of Manitoba_ 
-    - Expected Date of Graduation: _April 2022_.
+    - Expected Date of Graduation: _May 2022_.
     - Specialized in _Software Engineering_.
