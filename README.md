@@ -16,8 +16,8 @@ This is a Resume formatted in Markdown and hosted on Github Pages using a Jekyll
 ## Getting Started
 
 #### Markdown:
-- For technical writing, it is best to use a lightweight Markup language. Consider Andrew Etter's book "Modern Technical Writing":
-> "it is Human-readable in raw form, straightforward to learn, ..."
+- For technical writing, it is best to use a **_lightweight markup language_**. According to Andrew Etter's book _"Modern Technical Writing"_, he mentioned:
+> "For documentation, lightweight markup is free and superior in every meaningful way."
 - **Markdown** is a lightweight Markup Language that you can use to formatting components in your document. We use Markdown since it is the most popular Markup language for technical writing.
 - Since Markdown has many flavours and we are creating a website using GitHub pages, we will choose GitHub Flavored Markdown.
 - You can learn about Markdown syntax [here](https://www.markdowntutorial.com).
