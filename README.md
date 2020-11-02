@@ -66,7 +66,7 @@ This is a Resume formatted in Markdown and hosted on Github Pages using a Jekyll
     ```
 
     Github Desktop:
-    *_gif_
+    ![](GithubDesktopDemo.gif)
 
 3. Next, you will want to choose a Jekyll template for your Github Page:
         - Go to **Settings** in your repository.
