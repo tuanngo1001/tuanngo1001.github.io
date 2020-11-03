@@ -5,11 +5,17 @@ _This is how you create a Resume formatted in Markdown and host it on Github Pag
 
 ### Audience Profile
 >**Audience**: CS Students
+
 >**Venue**: README in GitHub Pages
+
 >**Purpose**: Explain how to host a resume on GitHub Pages.
+
 >**Additional purpose**: Introduce and demo principles of Andrew Etter’s book Modern Technical Writing
+
 >**Desired Reaction**: Being excited when following the steps and understanding Andrew Etter's general protocol
+
 >**Vocabulary**: Technical, informal
+
 >**Tone**: accurate, straightforward
 
 ## Contents
