@@ -1,6 +1,7 @@
-# TUAN NGO's resume
+# How to Host a Resume on GitHub Pages
 
-This is a Resume formatted in Markdown and hosted on Github Pages using a Jekyll template
+## Introduction
+_This is how you create a Resume formatted in Markdown and host it on Github Pages using a Jekyll template._
 
 ## Contents
 
@@ -42,26 +43,19 @@ This is a Resume formatted in Markdown and hosted on Github Pages using a Jekyll
         - Vim
         - Emacs
     - I personally suggest Atom and VScode since they have extensions to review the Markdown format live side by side with your raw form.
-    - Some basic Markdown properties you can use are _Headings_ (using '#' symbol), _Emphasize_ (using '*' symbol), _Italic_ (using '_' symbol) or create tables, etc.
-    ``` Markdown
-    ### Headings
-    **emphasize**
-    _italic_
-    ```
-    
     - Save your Markdown-formatted Resume as an index.md file (.md is a file extension for Markdown documents)
 
 2. Place your index.md file in Github's repository
     - First, you need a **[Github account](https://github.com)**, using your student or organization emails to register a new account. Remember you will need to verify your email (Github will give you a detail instruction on how to do it)
     - Create a repository named _username_.github.io, where _username_ is your Github account's username.
     - You can use either **a terminal** or [Github Desktop application](https://desktop.github.com) to clone your _new repository_ in the folder you want to store your project on your PC. (check [this](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository) if you **don't know how to clone** a repository).
-    - Put your Markdown-formatted Resume into the project folder, then push it to the Github repository. You can either use a terminal or the Github desktop app
+    - Put your Markdown-formatted Resume into the project folder, then push it to the Github repository. You can either use a terminal or the Github desktop app to commit your local changes to your GitHub repository:
     
     Terminal:
 
     ```bash
     git add --all
-    git commit -m"initial commit"
+    git commit -m"Your commit message"
     git push -u origin main
     ```
 
@@ -89,7 +83,8 @@ For this project, I used a pre-build Jekyll theme called **[Minimal](https://git
 - [Jekyll](https://jekyllrb.com)
 
 ## Author and Acknowledgments
-- Tuan Ngo
+- **Group members**: Renan, Adam, Jaspreet
+- All the process is followed Andrew Etter's protocol from his book.
 - The Contributors of **Minimal** theme.
 
 ---
